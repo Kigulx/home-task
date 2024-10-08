@@ -1,8 +1,9 @@
+
 # home-task
-home-task
-Find and return the cheapest (lowest) shown price (Please avoid using the minimum function)
-Find and return the room type, number of guest with the cheapest price 
-Print the total price (Net price + taxes) for all rooms along with the room type
+
+ 1. Find and return the cheapest (lowest) shown price (without the minimum function)
+ 2. Find and return the room type, number of guest with the cheapest price
+ 3. Print the total price (Net price + taxes) for all rooms along with the room type
 
 
 Everything output in json file
